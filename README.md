@@ -4,7 +4,7 @@
 
 This stater template is based onthe excellent [phaser-template](https://github.com/remarkablegames/phaser-template)
 
-[Play the game.]([[game_url]])
+[Play [[game_title]]](http://[[game_domain]])
 
 ## Prerequisites
 
