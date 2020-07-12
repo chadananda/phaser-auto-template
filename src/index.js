@@ -10,9 +10,9 @@ const { Game, Scale } = window.Phaser;
 const config = {
   width: 800,
   height: 600,
-  title: 'Phaser Template',
+  title: '[[game_title]]',
   // see `.env` and `package.json`
-  url: process.env.WEB_APP_HOMEPAGE,
+  url: 'http://[[game_domain]]',
   version: process.env.WEB_APP_VERSION,
   scene: [Boot, Main],
   physics: {
