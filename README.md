@@ -2,14 +2,15 @@
 
 <kbd>[[game_title]]</kbd> is your new game's starting point
 
-This stater template is based onthe excellent [phaser-template](https://github.com/remarkablegames/phaser-template)
+This starter template is based onthe excellent [phaser-template](https://github.com/remarkablegames/phaser-template)
+It is intended to be used with the game starter CLI wizard <kbd>mkgame</kbd>
 
 [Play [[game_title]]](http://[[game_domain]])
 
 ## Prerequisites
 
-- [Node.js >=10](https://nodejs.org/en/download/)
-- [npm >=5.6](https://www.npmjs.com/get-npm) or [Yarn >=1](https://yarnpkg.com/lang/en/docs/install/)
+- [Node.js >=10](https://nodejs.org/en/download/) 
+- [Git / GitHub](https://desktop.github.com/) 
 
 ## Installation
 
