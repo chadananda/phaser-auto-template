@@ -16,7 +16,7 @@ npm run build --silent
 if [[ $(command -v npx) ]]; then
   npx --no-install gitploy build gh-pages --silent
 else
-  $(npm bin)/gitploy build gh-pages  --silent
+  $(npm bin)/gitploy build gh-pages  --quiet
 fi
 
 # return working index to initial state (if applicable)
